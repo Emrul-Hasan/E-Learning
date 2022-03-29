@@ -1,0 +1,38 @@
+	table,td,th{
+      width: 600px;
+	  border:1px solid black;
+      border-width: 1px;
+      border-color: #070501;
+		}
+		th,td {
+  	padding:9px;
+	}
+
+
+
+
+
+	#ad {
+border: 3px solid #201772;
+border-radius: 5px;
+background-color: ;
+}
+
+
+
+
+
+/*for I-welcome*/
+    #ae {
+border: 3px solid  #CDE6B8;
+border-radius: 5px;
+background-color:  #CDE6B8;
+}
+
+
+
+/*for I-view profile*/
+	#bb{
+		background-color: #CDE6B8;
+
+}
